@@ -1,0 +1,24 @@
+package ol_video;
+
+public class Array {
+
+	public static void main(String[] args) {
+		int a[] = { 1, 2, 3, 4, 5, 6 };
+		int b[] = { 7, 8, 9, 10, 11, 3 };
+		int c[] = { 12, 13, 14, 15, 16, 3 };
+
+		int d[][] = { { 1, 2, 3, 4, 5, 6 }, { 7, 8, 9, 10, 11, 3 }, { 12, 13, 14, 15, 16, 3 }
+
+		};
+
+		for (int i = 0; i < 5; i++) // count no of rows
+		{
+			for (int j = 0; j < 6; j++) // count no of columns
+			{
+				System.out.print(" " + d[i][j]);
+			}
+			System.out.println();
+		}
+	}
+
+}

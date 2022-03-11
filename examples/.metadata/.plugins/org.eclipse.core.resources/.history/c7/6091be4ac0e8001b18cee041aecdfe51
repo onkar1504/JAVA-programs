@@ -1,0 +1,31 @@
+//even or odd
+
+package introduction;
+
+import java.util.Scanner;
+
+public class Ifelse 
+{
+
+	public static void main(String[] args) 
+	
+	{
+		Scanner reader = new Scanner (System.in);
+		
+		System.out.println("enetr the number:");
+		
+		int num = reader.nextInt();
+		
+		if(num%3 ==0) 
+		{
+			System.out.println("its even num");
+		}
+		
+		else {
+			System.out.println("its not even num");
+		}
+		
+
+	}
+
+}

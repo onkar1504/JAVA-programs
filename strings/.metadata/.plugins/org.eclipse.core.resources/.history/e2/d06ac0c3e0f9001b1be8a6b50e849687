@@ -1,0 +1,18 @@
+
+public class Stringdemo {
+
+	public static void main(String[] args)
+	{
+		String A ="onkar";
+		
+		String name = new String ("lonakr");
+	
+		String lname;
+		lname =  new String ("lonakr");
+
+		System.out.print("the name is"+ A);
+
+		System.out.println("the name is"+name);
+	}
+
+}

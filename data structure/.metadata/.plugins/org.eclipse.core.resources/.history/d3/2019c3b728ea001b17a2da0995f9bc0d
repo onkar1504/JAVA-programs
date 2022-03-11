@@ -1,0 +1,16 @@
+package likedl_ist;
+
+import java.util.LinkedList;
+import java.util.Linkedlist;
+
+public class Runner
+{
+
+	public static void main(String[] args) 
+	{
+		LinkedList<E> list= new Linkedlist();	
+		
+		list.add(list)
+	}
+
+}

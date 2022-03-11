@@ -1,0 +1,35 @@
+//swap two no without temp
+package introduction;
+
+public class Swap2
+{
+
+	public static void main(String[] args) 
+	{
+		int no1=20;
+		int no2=10;
+		
+		//before swapping
+		
+		System.out.println("first no:"+no1);
+		
+		System.out.println("second no:"+no2);
+		
+		no1=no1-no2;  // no1= 10 -20 = 10
+		
+		no2=no1 +no2;  //no2= no1(10-20 =10) + 10 =0
+		 
+		
+		no1=no2-no1;   //
+		
+
+		System.out.println("--after swapping--");
+		
+		System.out.println("first no:"+no1);
+		
+		System.out.println("second no:"+no2);
+		
+
+	}
+
+}

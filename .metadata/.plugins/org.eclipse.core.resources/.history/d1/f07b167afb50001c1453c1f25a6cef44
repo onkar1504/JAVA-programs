@@ -1,0 +1,16 @@
+// Writing a program that prints the prime numbers between two numbers. This program is divided
+public class Ex2 {
+
+	public static void main(String[] args) 
+	{
+		System.out.println(isprime(4));
+	}
+	
+	public static boolean isprime(int n)
+	{
+		for(int i=2;i<=n/2;i++)
+			return false;
+		return true;
+	}
+
+}

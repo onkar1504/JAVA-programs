@@ -1,0 +1,36 @@
+package likedl_ist;
+import java.util.LinkedList;
+
+
+class Node 
+{
+	int data;
+	Node next;  			 //reference next node
+
+}
+
+
+
+class Linkedlist
+{
+	Node head;	
+
+}
+
+
+
+public class Runner 
+{
+
+	public static void main(String[] args)
+	{
+		LinkedList list =new LinkedList();
+		
+		
+		
+		
+		
+
+	}
+
+}

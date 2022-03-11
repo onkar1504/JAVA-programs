@@ -1,0 +1,10 @@
+package likedl_ist;
+
+public class Linkedlist
+{
+	Node head;
+	
+	
+
+}
+l

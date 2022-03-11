@@ -1,0 +1,14 @@
+package likedl_ist;
+
+import java.util.Linkedlist;
+
+public class Runner
+{
+
+	public static void main(String[] args) 
+	{
+		Linkedlist list= new Linkedlist();	
+		
+	}
+
+}

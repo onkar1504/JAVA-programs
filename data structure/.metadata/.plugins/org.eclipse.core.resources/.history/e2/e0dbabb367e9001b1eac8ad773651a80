@@ -1,0 +1,12 @@
+package likedl_ist;
+
+public class Linkedlist
+{
+
+	public static void main(String[] args) 
+	{
+		
+
+	}
+
+}

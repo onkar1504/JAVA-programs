@@ -1,0 +1,32 @@
+
+public class Stringmethods 
+{
+
+	public static void main(String[] args) 
+	{
+		String name  ="OnkaR";
+		
+		//length()=return string length
+		int value = name.length();
+		System.out.println(value);  //5
+		
+		//tolower() = return small case
+		String lstring =name.toLowerCase();
+		System.out.println(lstring);		//onkar
+		
+		//toupper=  return capital
+		String upstring =name.toUpperCase();
+		System.out.println(upstring);			//ONKAR
+		
+		// trim method = remove spaces
+		String trime = "     onakkkkr "; 
+		System.out.println(trime.trim());
+		
+		//substring = 
+		String substring = "kondhwa";
+		System.out.println(substring.substring(2));
+		
+		
+	}
+
+}

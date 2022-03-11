@@ -1,0 +1,22 @@
+package likedl_ist;
+
+import java.util.LinkedList;
+
+public class Runner 
+{
+
+	public static void main(String[] args)
+	{
+		LinkedList list =new LinkedList();
+		
+		list.insert(18);
+		list.insert(19);
+		list.insert(20);
+		
+		list.show();
+		
+		
+
+	}
+
+}

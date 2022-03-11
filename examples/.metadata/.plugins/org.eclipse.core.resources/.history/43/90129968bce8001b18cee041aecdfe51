@@ -1,0 +1,17 @@
+package introduction;
+
+public class Swap {
+
+	public static void main(String[] args) 
+	{
+		int no1=20;
+		int no2=10;
+		
+		//before swapping
+		
+		System.out.println("first no:"+no1);
+		System.out.println("second no:"+no2);
+
+	}
+
+}

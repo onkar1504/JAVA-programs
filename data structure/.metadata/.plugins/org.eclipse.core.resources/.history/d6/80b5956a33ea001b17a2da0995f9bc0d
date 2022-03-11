@@ -1,0 +1,8 @@
+package likedl_ist;
+
+public class Node 
+{
+	int data;
+	Node next;  			 //reference next node
+
+}
